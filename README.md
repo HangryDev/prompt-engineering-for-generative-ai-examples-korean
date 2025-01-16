@@ -1,3 +1,9 @@
+# 이 저장소는
+
+Prompt Engineering for Generative AI에서 제공하는 코드에 주석과 프롬프트를 한국어로 번역한 저장소입니다. 
+
+이하 원 저자의 원문 소개입니다
+---
 # Prompt Engineering for Generative AI
 
 [Prompt Engineering for Generative AI](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) is a comprehensive guide co-authored for O'Reilly, focusing on the art of prompt engineering for GPT-4, Stable Diffusion and other generative AI models. Dive deep into the world of prompt engineering and LLMs (large language models) with our book, which is your ultimate resource for mastering the techniques and methodologies in this rapidly evolving field.
